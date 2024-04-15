@@ -1,1 +1,1 @@
-для запуска приложения нужно запустить файл comport.py
+для запуска приложения нужно запустить файл comport.py. Нужно закоментировать class Connect и from connect import Ui_Connect
